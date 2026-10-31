@@ -22,3 +22,6 @@ contract BankAccount {
         return balances[msg.sender];
     }
 }
+
+// deposite input: 1000000000000000
+// withraw input:  500000000000000
