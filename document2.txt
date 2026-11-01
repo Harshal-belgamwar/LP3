@@ -1,2 +1,0 @@
-Machine learning allows computers to learn from data.
-It is an important part of artificial intelligence.
